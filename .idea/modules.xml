@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CGB-2009-JT.iml" filepath="$PROJECT_DIR$/.idea/CGB-2009-JT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt/jt.iml" filepath="$PROJECT_DIR$/jt/jt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt/jt-common/jt-common.iml" filepath="$PROJECT_DIR$/jt/jt-common/jt-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt/jt-manage/jt-manage.iml" filepath="$PROJECT_DIR$/jt/jt-manage/jt-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_demo03/springboot_demo03.iml" filepath="$PROJECT_DIR$/springboot_demo03/springboot_demo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_demo1/springboot_demo1.iml" filepath="$PROJECT_DIR$/springboot_demo1/springboot_demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_demo2/springboot_demo2.iml" filepath="$PROJECT_DIR$/springboot_demo2/springboot_demo2.iml" />
+    </modules>
+  </component>
+</project>

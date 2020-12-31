@@ -1,0 +1,33 @@
+#设定默认环境
+spring:
+  profiles:
+    active: prod
+---
+spring:
+  main:
+    banner-mode: off
+  #标识配置信息   新版本写法
+  config:
+    activate:
+      on-profile: dev
+
+server:
+  port: 8090
+
+redis:
+  host: 127.0.0.1
+  port: 63719
+
+--- #实现配置文件拆分
+
+spring:
+  main:
+    banner-mode: off
+  #标识配置信息   旧版本写法
+  profiles: prod
+
+server:
+  port: 8091
+redis:
+  host: 127.1.1.1
+  port: 63719
