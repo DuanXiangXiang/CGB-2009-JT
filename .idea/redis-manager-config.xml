@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistentConfig">
+    <option name="configs">
+      <map>
+        <entry key="6">
+          <value>
+            <RedisServerNode>
+              <option name="auth" value="" />
+              <option name="comment" value="" />
+              <option name="host" value="192.168.126.129" />
+              <option name="id" value="6" />
+              <option name="name" value="192.168.126.129" />
+              <option name="port" value="6379" />
+            </RedisServerNode>
+          </value>
+        </entry>
+        <entry key="8">
+          <value>
+            <RedisServerNode>
+              <option name="auth" value="" />
+              <option name="comment" value="" />
+              <option name="host" value="192.168.126.129" />
+              <option name="id" value="8" />
+              <option name="name" value="192.168.126.129" />
+              <option name="port" value="6379" />
+            </RedisServerNode>
+          </value>
+        </entry>
+        <entry key="10">
+          <value>
+            <RedisServerNode>
+              <option name="auth" value="root" />
+              <option name="comment" value="" />
+              <option name="connect" value="true" />
+              <option name="host" value="192.168.126.129" />
+              <option name="id" value="10" />
+              <option name="name" value="192.168.126.129" />
+              <option name="port" value="6379" />
+            </RedisServerNode>
+          </value>
+        </entry>
+        <entry key="14">
+          <value>
+            <RedisServerNode>
+              <option name="auth" value="" />
+              <option name="comment" value="" />
+              <option name="host" value="192.168.126.129" />
+              <option name="id" value="14" />
+              <option name="name" value="192.168.126.129" />
+              <option name="port" value="6379" />
+            </RedisServerNode>
+          </value>
+        </entry>
+        <entry key="16">
+          <value>
+            <RedisServerNode>
+              <option name="auth" value="" />
+              <option name="comment" value="" />
+              <option name="host" value="192.168.126.129" />
+              <option name="id" value="16" />
+              <option name="name" value="192.168.126.129" />
+              <option name="port" value="6379" />
+            </RedisServerNode>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="configList">
+      <list>
+        <RedisServerNode>
+          <option name="auth" value="" />
+          <option name="comment" value="" />
+          <option name="host" value="192.168.126.129" />
+          <option name="id" value="6" />
+          <option name="name" value="192.168.126.129" />
+          <option name="port" value="6379" />
+        </RedisServerNode>
+        <RedisServerNode>
+          <option name="auth" value="" />
+          <option name="comment" value="" />
+          <option name="host" value="192.168.126.129" />
+          <option name="id" value="8" />
+          <option name="name" value="192.168.126.129" />
+          <option name="port" value="6379" />
+        </RedisServerNode>
+        <RedisServerNode>
+          <option name="auth" value="root" />
+          <option name="comment" value="" />
+          <option name="host" value="192.168.126.129" />
+          <option name="id" value="10" />
+          <option name="name" value="192.168.126.129" />
+          <option name="port" value="6379" />
+        </RedisServerNode>
+        <RedisServerNode>
+          <option name="auth" value="" />
+          <option name="comment" value="" />
+          <option name="host" value="192.168.126.129" />
+          <option name="id" value="14" />
+          <option name="name" value="192.168.126.129" />
+          <option name="port" value="6379" />
+        </RedisServerNode>
+        <RedisServerNode>
+          <option name="auth" value="" />
+          <option name="comment" value="" />
+          <option name="host" value="192.168.126.129" />
+          <option name="id" value="16" />
+          <option name="name" value="192.168.126.129" />
+          <option name="port" value="6379" />
+        </RedisServerNode>
+      </list>
+    </option>
+    <option name="consoleFilePath" value="C:\Users\DUAN\AppData\Local\Temp\redis\a44ce43c-4596-4ac5-a19e-bc96fe21018b\console.redis" />
+    <option name="id" value="18" />
+    <option name="runActionTipCount" value="2" />
+    <option name="lastRedisServerNode">
+      <RedisServerNode>
+        <option name="auth" value="" />
+        <option name="comment" value="" />
+        <option name="host" value="192.168.126.129" />
+        <option name="id" value="16" />
+        <option name="name" value="192.168.126.129" />
+        <option name="port" value="6379" />
+      </RedisServerNode>
+    </option>
+  </component>
+</project>
