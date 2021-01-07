@@ -29,5 +29,6 @@ public class ItemCatController {
     public List<EasyUITree> findItemCatList(Long id) {
         Long parentId = id == null ? 0 : id;
         return itemCatService.findItemCatList(parentId);
+//        return itemCatService.findItemCatCache(parentId);
     }
 }

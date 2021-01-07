@@ -8,4 +8,7 @@ public interface ItemCatService {
     String findItemCatNameById(Long itemCatId);
 
     List<EasyUITree> findItemCatList(Long parentId);
+
+    List<EasyUITree> findItemCatCache(Long parentId);
+
 }
